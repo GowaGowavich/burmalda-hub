@@ -327,4 +327,3 @@ releases/                     Архивы релизов и установщи�
 Дополнительные руководства внутри компонентов: `ai/LOCAL_AI.md`, `voice/README.md`, `vision/VOICE_AND_SESSION.md`, `memory/README.md`.
 
 **Сторонние лицензии.** Для Silero TTS/Kseniya в отчётах указана **CC BY-NC-SA 4.0**, а для Qwen3-VL — **Apache 2.0**. Их тексты и атрибуция находятся в соответствующих папках `voice/licenses/` и `ai/licenses/`; происхождение DINOv2 указано в `vision/models/character-recognition/provenance.json`. Перед распространением сборок необходимо проверить лицензии **всех** входящих моделей, зависимостей и ресурсов. **Лицензия собственного кода проекта в предоставленных Markdown-файлах не указана** — этот README не назначает её автоматически.
-<img width="529" height="526" alt="barni-expressions" src="https://github.com/user-attachments/assets/b1a3df4d-cc6c-4fbe-9b18-95a2791a4e3c" />
