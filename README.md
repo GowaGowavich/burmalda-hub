@@ -1,3 +1,4 @@
+<img width="1920" height="819" alt="Чиби-девочка в неоновом интерфейсе" src="https://github.com/user-attachments/assets/467373a2-9039-440b-a028-9cbf91f1ba52" />
 # Shinri Trial Launcher
 
 **Shinri Trial Launcher** — русскоязычный лаунчер для **Garry’s Mod / Shinri Trial** на Windows с каталогом серверов, подключением через Steam, отображением игровой активности в Discord и локальной игровой помощницей **Барни**.
